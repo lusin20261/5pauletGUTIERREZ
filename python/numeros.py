@@ -5,5 +5,7 @@ a=int(a)
 b=int(b)
 print("La multiplicación es:",a*b)
 print("La división es:",a/b)
+print("La suma es:",a+b)
+print("La resta es:",a-b)
 #agrega aquí también la suma, la resta y cualquier otra operación que quieras 
 print("===================Gracias=====================")
